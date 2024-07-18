@@ -1,0 +1,5 @@
+Deploy Backend to Heroku
+1.Push your code to GitHub.
+2.Create a Heroku app and connect it to your GitHub repository.
+3.Deploy the app from the Heroku dashboard.
+4.Ensure environment variables for MongoDB connection string and JWT secret are set in Heroku.
