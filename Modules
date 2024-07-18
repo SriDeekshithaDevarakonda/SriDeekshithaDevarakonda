@@ -1,0 +1,9 @@
+//Generate Auth and User modules:
+
+
+nest g module auth
+nest g module user
+nest g service auth
+nest g service user
+nest g controller auth
+nest g controller user
